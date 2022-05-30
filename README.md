@@ -1,4 +1,4 @@
-# 00_Libft
+#  00_Libft
 <img src="https://github.com/mirhatfidan/00_Libft/blob/main/libft_test.png" width="auto" height="500px">
 
 * [`ft_isascii`](libft/ft_isascii.c)			    - ASCII karakter testi.
